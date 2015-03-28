@@ -1,0 +1,19 @@
+{
+  "name": "xor",
+  "version": "0.1.0",
+  "authors": [
+    "Alex Craig http://acraig.ca/"
+  ],
+  "description": "A JavaScript library for bitwise operations",
+  "keywords": [
+    "bit",
+    "bitwise",
+    "bitmask",
+    "logical_operators",
+    "shift_operators"
+  ],
+  "license": "MIT",
+  "main": [
+  	"./src/xor.js"
+  ]
+}
